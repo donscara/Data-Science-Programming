@@ -25,9 +25,9 @@ Naive Bayes: Used scikit-learn on the UCI wine dataset and implemented in a virt
 Decision Trees: Used scikit-learn on the Diabetes dataset and implemented in a virtual environment.
 K-Nearest Neighbors: Used scikit-learn on the UCI wine dataset and implemented in your own virtual environment.
 
-Artircial Neural Networks and Clustering
+Artificial Neural Networks and Clustering
 
-Articial Neural Network: 
+Artificial Neural Network: 
 Used keras on the Zillow's Home Value Prediction dataset and implemented in a virtual environment. 
 Also used keras on the UCI wine dataset and implemented it in a virtual environment.
 
